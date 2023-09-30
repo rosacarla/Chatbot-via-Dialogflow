@@ -1,0 +1,39 @@
+{
+  "id": "1ab4f4d5-7376-4a48-9c43-8db06acf12fa",
+  "parentId": "c0e11cc8-43c4-4deb-8077-6c3c52baf638",
+  "rootParentId": "c0e11cc8-43c4-4deb-8077-6c3c52baf638",
+  "name": "Solicita Orcamento Intent - cancel",
+  "auto": true,
+  "contexts": [
+    "SolicitaOrcamentoIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SolicitaOrcamentoIntent.SolicitaOrcamentoIntent-cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Entendi. Sua solicitação foi cancelada."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5d5acfae-d793-47d4-9709-e07173052fa3",
+  "name": "Inicio Servicos Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "277c3ebe-0217-45fa-9c65-296d443501be",
+          "name": "servicos",
+          "required": false,
+          "dataType": "@servicos",
+          "value": "$servicos",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A perita é especialista em Grafoscopia e Documentoscopia para detectar fraudes em assinaturas e documentos, tanto físicos quanto digitais. Oferece os serviços de: parecer técnico, quesitação técnica, impugnação de laudo e consultoria técnica. Você gostaria de solicitar orçamento de qual serviço?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1ee13f3c-946c-4f5d-9f38-e82cbde38d56",
+  "name": "Horario Escritorio Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O horário de funcionamento do escritório é das 13h00 até 18h00, de segunda à sexta-feira.",
+            "O atendimento no escritório é das 13h00 até 18h00, de segunda à sexta-feira."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

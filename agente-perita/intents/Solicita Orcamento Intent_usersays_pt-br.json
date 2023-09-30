@@ -1,0 +1,184 @@
+[
+  {
+    "id": "0b9444cc-e0ed-4cbd-89ac-a0d7b4a1d061",
+    "data": [
+      {
+        "text": "você poderia solicitar pra mim um orçamento ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quesitos suplementares",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7e1006f2-fd22-4438-8de0-adbb9370aa0a",
+    "data": [
+      {
+        "text": "quero um orçamento de ",
+        "userDefined": false
+      },
+      {
+        "text": "parecer",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "quesitos",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "impugnação",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3601d527-00fb-4345-926e-5e56a8998cd4",
+    "data": [
+      {
+        "text": "quero ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "userDefined": false
+      },
+      {
+        "text": " orçamento de ",
+        "userDefined": false
+      },
+      {
+        "text": "consultoria técnica",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "603b372c-f088-42af-9a30-708b8090fe45",
+    "data": [
+      {
+        "text": "preciso de ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "userDefined": false
+      },
+      {
+        "text": " orçamento ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "impugnação de laudo",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0bb16b21-01ec-4dbe-a1c0-42e98878d46c",
+    "data": [
+      {
+        "text": "desejo pedir orçamento de ",
+        "userDefined": false
+      },
+      {
+        "text": "quesitação",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca319a84-38e5-4808-a4f7-4aad92812aa5",
+    "data": [
+      {
+        "text": "quero solicitar ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "userDefined": false
+      },
+      {
+        "text": " orçamento de ",
+        "userDefined": false
+      },
+      {
+        "text": "parecer técnico,",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": true
+      },
+      {
+        "text": " pode ser?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

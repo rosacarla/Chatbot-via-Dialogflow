@@ -1,0 +1,39 @@
+{
+  "id": "29717d2d-c67a-4130-a6df-0c40ad66df71",
+  "parentId": "c0e11cc8-43c4-4deb-8077-6c3c52baf638",
+  "rootParentId": "c0e11cc8-43c4-4deb-8077-6c3c52baf638",
+  "name": "Solicita Orcamento Intent - yes",
+  "auto": true,
+  "contexts": [
+    "SolicitaOrcamentoIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SolicitaOrcamentoIntent.SolicitaOrcamentoIntent-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Confirmado. Para receber seu orçamento no prazo de 5 dias úteis, envie cópia do processo judicial, se houver, quantidade de assinaturas questionadas, cópias digitalizadas de documentos questionados em resolução mínima de 600 dpi para o e-mail periciajud_carlasilveira@gmail.com."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

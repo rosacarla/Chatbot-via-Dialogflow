@@ -1,0 +1,55 @@
+{
+  "id": "c0e11cc8-43c4-4deb-8077-6c3c52baf638",
+  "name": "Solicita Orcamento Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "SolicitaOrcamentoIntent-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e872aadd-7c84-4f59-8e88-3f22723c43ba",
+          "name": "servicos",
+          "required": false,
+          "dataType": "@servicos",
+          "value": "$servicos",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "OK! Você solicitou orçamento de $servicos . Posso confirmar?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

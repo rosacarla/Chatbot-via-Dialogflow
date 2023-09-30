@@ -1,0 +1,226 @@
+[
+  {
+    "id": "f5cbad08-596c-49b5-8b30-eee1afa7dc3d",
+    "data": [
+      {
+        "text": "desisti ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "userDefined": false
+      },
+      {
+        "text": " orçamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fd5877db-7ee1-4911-9f29-e464c9849004",
+    "data": [
+      {
+        "text": "preciso modificar o pedido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "edfff87c-0f88-4057-92cc-c000cd30e8b6",
+    "data": [
+      {
+        "text": "mudei de ideia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1135ec25-821c-4e6d-bfdc-7841476933e5",
+    "data": [
+      {
+        "text": "não quero mais o orçamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b1ef795c-0396-4c45-8141-de8c7b2fd016",
+    "data": [
+      {
+        "text": "gostaria de alterar a solicitação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dfb1b51f-f859-4c28-ada4-53ed996e22ff",
+    "data": [
+      {
+        "text": "esquece",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "398f08d5-5899-4d0a-87be-af60e5adf4cf",
+    "data": [
+      {
+        "text": "esqueça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3bc6d35c-fd5e-4755-887e-cb9a6f5b7394",
+    "data": [
+      {
+        "text": "pular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c9888e90-5342-49f2-a97f-38267e966cf7",
+    "data": [
+      {
+        "text": "pare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "48bd6c1c-e5d4-471d-935b-f7d63f794f05",
+    "data": [
+      {
+        "text": "parar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5a3612cb-3f3e-44fd-822c-9b75a8dcff9c",
+    "data": [
+      {
+        "text": "vou pensar melhor e depois ",
+        "userDefined": false
+      },
+      {
+        "text": "refaço",
+        "userDefined": false
+      },
+      {
+        "text": " o pedido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "36b7e671-1f9c-4c31-bf6c-487497665618",
+    "data": [
+      {
+        "text": "deixa pra lá",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0e94f3ef-13e1-43af-a411-857f04622f8d",
+    "data": [
+      {
+        "text": "cancele",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "150a0a65-8206-454b-9609-1dee38d3f773",
+    "data": [
+      {
+        "text": "cancelar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ee056a57-32c5-4392-a6a1-02472b96574e",
+    "data": [
+      {
+        "text": "dispensar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9da7773c-d652-440c-8106-083f7c31d9dc",
+    "data": [
+      {
+        "text": "não faça nada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

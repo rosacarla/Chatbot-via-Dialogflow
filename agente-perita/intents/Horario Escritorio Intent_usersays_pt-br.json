@@ -1,0 +1,259 @@
+[
+  {
+    "id": "36b8087e-129e-4d75-b87c-5e3106c71955",
+    "data": [
+      {
+        "text": "informação de horário?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "23f4ce75-d104-4968-8d24-8d613b7281a9",
+    "data": [
+      {
+        "text": "atendimento no escritório?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f9b85038-33fb-45ee-9744-787ccb920e16",
+    "data": [
+      {
+        "text": "funcionamento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bcee2392-3cf7-4749-9ccc-e8d60728e9b5",
+    "data": [
+      {
+        "text": "horário de funcionamento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4dbfa175-ce3a-4f96-83a9-48dc10820dc1",
+    "data": [
+      {
+        "text": "horário de atendimento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "05dd199b-0825-493a-a9e1-03eaf82a0800",
+    "data": [
+      {
+        "text": "funciona de ",
+        "userDefined": false
+      },
+      {
+        "text": "manhâ",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "55d31d5c-ae45-4c90-9e6f-c3c03e880afa",
+    "data": [
+      {
+        "text": "horário?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b9d58842-a596-4be7-ab6d-cc71a0a3b9e4",
+    "data": [
+      {
+        "text": "em que ",
+        "userDefined": false
+      },
+      {
+        "text": "horário",
+        "userDefined": true
+      },
+      {
+        "text": " a perita atende no ",
+        "userDefined": false
+      },
+      {
+        "text": "escritório",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "466e6969-27dc-4905-8d48-87289f446cd3",
+    "data": [
+      {
+        "text": "a perita atende em qual ",
+        "userDefined": false
+      },
+      {
+        "text": "horário",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "caa35f0c-5006-4f7a-b248-c7f1a023dedd",
+    "data": [
+      {
+        "text": "em que ",
+        "userDefined": false
+      },
+      {
+        "text": "horário",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "o escritório",
+        "userDefined": false
+      },
+      {
+        "text": " funciona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dfa9415a-962e-4cf5-9ee5-f46903101d96",
+    "data": [
+      {
+        "text": "qual o ",
+        "userDefined": false
+      },
+      {
+        "text": "horário",
+        "userDefined": true
+      },
+      {
+        "text": " de funcionamento ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "escritório",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0008bdda-554b-4b09-9c10-6393e10081ef",
+    "data": [
+      {
+        "text": "em que ",
+        "userDefined": false
+      },
+      {
+        "text": "horário",
+        "userDefined": true
+      },
+      {
+        "text": " posso falar com a perita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a05ba15c-7209-4481-a1cf-c41d7985fa6d",
+    "data": [
+      {
+        "text": "qual o ",
+        "userDefined": false
+      },
+      {
+        "text": "horário",
+        "userDefined": true
+      },
+      {
+        "text": " de atendimento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

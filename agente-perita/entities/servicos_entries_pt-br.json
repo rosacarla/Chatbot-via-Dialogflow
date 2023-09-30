@@ -1,0 +1,93 @@
+[
+  {
+    "value": "parecer",
+    "synonyms": [
+      "parecer técnico",
+      "exame técnico",
+      "análise técnica",
+      "laudo técnico",
+      "parece pericial",
+      "análise pericial"
+    ]
+  },
+  {
+    "value": "quesitação",
+    "synonyms": [
+      "quesitação técnica",
+      "quesitação",
+      "quesitos",
+      "questionamento",
+      "questionamentos",
+      "pergunta técnica",
+      "perguntas técnicas",
+      "questões",
+      "questão",
+      "questões técnicas",
+      "questão técnica",
+      "quesitos complementares"
+    ]
+  },
+  {
+    "value": "impugnação",
+    "synonyms": [
+      "impugnação de laudo",
+      "contestação de perícia",
+      "objeção",
+      "oposição a perícia",
+      "refutação",
+      "impugnação"
+    ]
+  },
+  {
+    "value": "consultoria",
+    "synonyms": [
+      "consultoria técnica",
+      "consulta técnica",
+      "asessoria técnica",
+      "assistência técnica",
+      "consultoria",
+      "consulta",
+      "assessoria",
+      "assistência"
+    ]
+  },
+  {
+    "value": "serviço",
+    "synonyms": [
+      "serviço",
+      "serviços",
+      "trabalho",
+      "trabalhos"
+    ]
+  },
+  {
+    "value": "grafoscopia",
+    "synonyms": [
+      "grafoscopia",
+      "grafotécnia",
+      "grafotécnica",
+      "exame grafoscópico",
+      "exame grafotécnico",
+      "autenticidade de assinatura",
+      "falsificação de assinatura",
+      "assinatura manuscrita",
+      "assinatura eletrônica",
+      "fraude em assinatura"
+    ]
+  },
+  {
+    "value": "documentoscopia",
+    "synonyms": [
+      "documentoscopia",
+      "documental",
+      "documentoscópico",
+      "exame documentoscópico",
+      "análise documental",
+      "autenticidade de documento",
+      "documento físico",
+      "documento digital",
+      "falsificação de documento",
+      "fraude em documento"
+    ]
+  }
+]

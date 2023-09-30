@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "language": "pt-br",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "agente-perita",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "America/Buenos_Aires",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "c69189e7e7694156b69ee1300b2ac2b4",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

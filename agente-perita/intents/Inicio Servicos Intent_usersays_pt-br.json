@@ -1,0 +1,166 @@
+[
+  {
+    "id": "5bb4473b-71e5-4e0a-893c-4d4deb957338",
+    "data": [
+      {
+        "text": "atende caso de ",
+        "userDefined": false
+      },
+      {
+        "text": "falsificação de assinatura",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5045c9b3-877c-4888-b3b4-4e4b3d971265",
+    "data": [
+      {
+        "text": "preciso de ",
+        "userDefined": false
+      },
+      {
+        "text": "parecer",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "técnico",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": true
+      },
+      {
+        "text": " em Documentoscopia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2e842599-b4dd-411e-8fed-dfbc21b6c00f",
+    "data": [
+      {
+        "text": "tem o ",
+        "userDefined": false
+      },
+      {
+        "text": "serviço",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": false
+      },
+      {
+        "text": " de parecer ",
+        "userDefined": false
+      },
+      {
+        "text": "técnico",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": false
+      },
+      {
+        "text": " em Grafoscopia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9a623565-7815-4cb3-8716-cddaada999be",
+    "data": [
+      {
+        "text": "preciso de um ",
+        "userDefined": false
+      },
+      {
+        "text": "parecer",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "técnico",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d2578411-457a-4407-85d0-ed377fd308cc",
+    "data": [
+      {
+        "text": "a perita faz ",
+        "userDefined": false
+      },
+      {
+        "text": "parecer",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c4e49fee-3f0b-4088-b702-e634f9340a09",
+    "data": [
+      {
+        "text": "quais ",
+        "userDefined": false
+      },
+      {
+        "text": "serviços",
+        "meta": "@servicos",
+        "alias": "servicos",
+        "userDefined": true
+      },
+      {
+        "text": " a perita presta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

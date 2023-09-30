@@ -1,0 +1,224 @@
+[
+  {
+    "id": "3b336443-4b8a-442a-a554-c2d6788fb69c",
+    "data": [
+      {
+        "text": "informação de endereço?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dbe3f60e-7721-4687-8c83-d88e3602c0e6",
+    "data": [
+      {
+        "text": "qual a ",
+        "userDefined": false
+      },
+      {
+        "text": "rua",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "89a2bf73-5770-47dc-8345-668fe9313974",
+    "data": [
+      {
+        "text": "qual o ",
+        "userDefined": false
+      },
+      {
+        "text": "bairro",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6a855e70-c9a9-445b-b347-17e40aebf633",
+    "data": [
+      {
+        "text": "qual a ",
+        "userDefined": false
+      },
+      {
+        "text": "localização",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2bbf6489-abc0-4dd3-bb5b-36c3cd031b19",
+    "data": [
+      {
+        "text": "qual o ",
+        "userDefined": false
+      },
+      {
+        "text": "endereço",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ec7ec1eb-75ba-44a2-a5d5-eb0acb6481f7",
+    "data": [
+      {
+        "text": "por",
+        "userDefined": false
+      },
+      {
+        "text": " favor, passe-me o ",
+        "userDefined": false
+      },
+      {
+        "text": "endereço",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "userDefined": false
+      },
+      {
+        "text": " escritório",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1122dd0-bb3b-401e-851c-1b73f6cbd3b9",
+    "data": [
+      {
+        "text": "em qual ",
+        "userDefined": false
+      },
+      {
+        "text": "bairro",
+        "userDefined": true
+      },
+      {
+        "text": " fica o escritório?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "43290786-bd84-473f-8cfa-2b2256c6c46f",
+    "data": [
+      {
+        "text": "onde",
+        "userDefined": true
+      },
+      {
+        "text": " fica o escritório?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d324659b-c8f9-4ec1-9b19-6c56c996c25f",
+    "data": [
+      {
+        "text": "qual a ",
+        "userDefined": false
+      },
+      {
+        "text": "localização",
+        "meta": "@sys.street-address",
+        "alias": "street-address",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "userDefined": false
+      },
+      {
+        "text": " escritório?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b72d6eab-83cd-4f09-bb9d-fafe5f5bac4f",
+    "data": [
+      {
+        "text": "qual o ",
+        "userDefined": false
+      },
+      {
+        "text": "endereço",
+        "meta": "@sys.street-address",
+        "alias": "street-address",
+        "userDefined": true
+      },
+      {
+        "text": " do escritório?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "f849d68c-c275-486d-aabc-91afbe2f184a",
+  "name": "servicos",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

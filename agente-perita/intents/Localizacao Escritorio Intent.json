@@ -1,0 +1,51 @@
+{
+  "id": "c7850e95-1dea-4138-b021-71b9e137fcdc",
+  "name": "Localizacao Escritorio Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0d7bcdf5-4d0b-4ebe-84f7-50054337bb36",
+          "name": "street-address",
+          "required": false,
+          "dataType": "@sys.street-address",
+          "value": "$street-address",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O endereço do escritório é Alameda Justa 3880, no Centro.",
+            "O escritório está localizado no Centro da cidade, na Alameda Justa 3880."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
